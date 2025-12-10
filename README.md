@@ -1,12 +1,12 @@
-<h1 align="center">👋 Olá, eu sou Marcos Vinicius Bravin dos Santos!</h1>
+<h1 align="center"> Olá, eu sou Marcos Vinicius Bravin dos Santos!</h1>
 
 <p align="center">
-  💻 <b>Desenvolvedor Full Stack</b> | 🛠️ <b>Especialista em Infraestrutura de TI</b> | 🚀 <b>Empreendedor na Bravin Tech</b>
+   <b>Desenvolvedor Full Stack</b> | 🛠️ <b>Especialista em Infraestrutura de TI</b> | 🚀 <b>Empreendedor na Bravin Tech</b>
 </p>
 
 <hr/>
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou um entusiasta da tecnologia, atuando no desenvolvimento **Web** e **Mobile**, além de ser especialista em **infraestrutura e segurança de servidores Linux**.  
 Fundador da **Bravin Tech**, empresa dedicada a oferecer soluções inovadoras, automação de processos e sistemas robustos para negócios de diversos segmentos.
@@ -15,7 +15,7 @@ Sempre em busca de novos desafios, aprendizado contínuo e evolução profission
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,7 +31,7 @@ Sempre em busca de novos desafios, aprendizado contínuo e evolução profission
 
 ---
 
-## 🌟 Destaques da Carreira
+##  Destaques da Carreira
 
 ✅ Fundador da **Bravin Tech**  
 ✅ Desenvolvimento de soluções de **automação** e **segurança de TI**  
@@ -40,27 +40,27 @@ Sempre em busca de novos desafios, aprendizado contínuo e evolução profission
 
 ---
 
-## 🚩 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🔒 Bloqueador de Sites para Instituições  
+###  Bloqueador de Sites para Instituições  
 Ferramenta criada para escolas e universidades bloquearem sites inapropriados, promovendo ambientes digitais mais seguros e focados no aprendizado.  
-👉 [**Em desenvolvimento**](https://github.com/MarcosBravin/SiteBloker)
+ [**Em desenvolvimento**](https://github.com/MarcosBravin/SiteBloker)
 
 ---
 
 ### 📊 Sistema de Monitoramento de Hardware  
 Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal para ambientes corporativos e industriais.  
-👉 [**Em desenvolvimento**](#)
+ [**Em desenvolvimento**](#)
 
 ---
 
-### ⏰ Ponto Digital Mobile  
+###  Ponto Digital Mobile  
 Aplicativo Android para registro eficiente de ponto, com notificações e integração em tempo real com sistemas corporativos.  
-👉 [**Em desenvolvimento**](https://github.com/MarcosBravin/PontoDigital)
+ [**Em desenvolvimento**](https://github.com/MarcosBravin/PontoDigital)
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -69,30 +69,30 @@ Aplicativo Android para registro eficiente de ponto, com notificações e integr
 
 ---
 
-## 🌍 Onde me encontrar
+##  Onde me encontrar
 
-- 🌐 **Site**: [www.bravintech.com.br](https://www.bravintech.com.br)  
-- 💼 **LinkedIn**: [Marcos Vinicius Bravin dos Santos](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)  
-- 📫 **Email**: marcosmv022@gmail.com  
-
----
-
-## ✨ Curiosidades
-
-- 🚀 Fundador da minha própria empresa de TI  
-- 🔐 Apaixonado por segurança da informação  
-- 🐧 Usuário assíduo de Linux e software open source  
-- 💡 Sempre em busca de novas tecnologias e tendências  
+-  **Site**: [www.bravintech.com.br](https://www.bravintech.com.br)  
+-  **LinkedIn**: [Marcos Vinicius Bravin dos Santos](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)  
+-  **Email**: marcosmv022@gmail.com  
 
 ---
 
-## 💬 Citação Favorita
+##  Curiosidades
+
+-  Fundador da minha própria empresa de TI  
+-  Apaixonado por segurança da informação  
+-  Usuário assíduo de Linux e software open source  
+-  Sempre em busca de novas tecnologias e tendências  
+
+---
+
+##  Citação Favorita
 
 > _“A tecnologia move o mundo, mas são as pessoas apaixonadas por ela que fazem a diferença.”_
 
 ---
 
-## ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!  
+##  Se gostou dos meus projetos, não esqueça de deixar uma estrela!  
 **Obrigado pela visita!**
 
 ---
