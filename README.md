@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Marcos Vinicius Bravin dos Santos!</h1>
 
 <p align="center">
-   <b>Desenvolvedor Full Stack</b> | 🛠️ <b>Especialista em Infraestrutura de TI</b> | 🚀 <b>Empreendedor na Bravin Tech</b>
+   <b>Desenvolvedor Full Stack</b> |  <b>Especialista em Infraestrutura de TI</b> |  <b>Empreendedor na Bravin Tech</b>
 </p>
 
 <hr/>
@@ -48,7 +48,7 @@ Ferramenta criada para escolas e universidades bloquearem sites inapropriados, p
 
 ---
 
-### 📊 Sistema de Monitoramento de Hardware  
+###  Sistema de Monitoramento de Hardware  
 Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal para ambientes corporativos e industriais.  
  [**Em desenvolvimento**](#)
 
