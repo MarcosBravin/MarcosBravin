@@ -60,15 +60,6 @@ Aplicativo Android para registro eficiente de ponto, com notificações e integr
 
 ---
 
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosBravin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBravin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ##  Onde me encontrar
 
 -  **Site**: [www.bravintech.com.br](https://www.bravintech.com.br)  
