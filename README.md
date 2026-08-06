@@ -56,7 +56,7 @@ Diagnóstico em tempo real, com alertas automáticos de falhas críticas, ideal 
 
 ##  Onde me encontrar
 
--  **Site**: [www.bravintech.com.br](https://www.bravintech.com.br)  
+-  **Site**: [www.bravintech.com.br](https://www.bravintech.com)  
 -  **LinkedIn**: [Marcos Vinicius Bravin dos Santos](https://br.linkedin.com/in/marcos-vinicius-bravin-dos-santos-4610b8358)  
 -  **Email**: marcosmv022@gmail.com  
 
